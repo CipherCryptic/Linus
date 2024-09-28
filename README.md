@@ -7,11 +7,11 @@
 
 ## List of Linux program, requirements and its requirements 
 
--bspwm
--sxhkd
--polybar
--picom
--dmenu
--nitrogen
--alacrity
--thunar
++bspwm
++sxhkd
++polybar
++picom
++dmenu
++nitrogen
++alacrity
++thunar
