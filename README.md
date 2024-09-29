@@ -13,10 +13,11 @@
 ## List of Linux program, requirements and its requirements 
 
 + bspwm
-+ sxhkd
-+ polybar
++ sxhkd (needed for bspwm for key bindings)
++ polybar (Awsome has wibar)
 + picom (compositor)
 + dmenu
++ SDDM
 + nitrogen
 + alacrity (terminal)
 + thunar
@@ -25,3 +26,4 @@
 + nvim (editor)
 + Neovim
 + font-manager-git (yay)
++ Arch Linux Tweak Tool
