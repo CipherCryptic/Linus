@@ -22,6 +22,7 @@
 + alacrity (terminal)
 + thunar
 + fish (shell)
++ or ZSH - change shell to zsh (chsh -s $(which zsh)  )
 + wezterm (terminal - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust)
 + nvim (editor)
 + Neovim
