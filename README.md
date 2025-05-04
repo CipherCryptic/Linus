@@ -19,19 +19,27 @@
 
 ## List of Linux program, requirements and its requirements 
 
-+ bspwm
++ bspwm (Tiling Window Manager)
 + sxhkd (needed for bspwm for key bindings)
-+ polybar (Awsome has wibar)
++ polybar (Awsome and light)
 + picom (compositor)
 + dmenu
-+ SDDM
-+ nitrogen
++ LightDM - (Login greeter)
++ nitrogen -  (Wallpaper)
 + alacrity (terminal)
-+ thunar
++ thunar (File manager)
 + fish (shell)
 + or ZSH - change shell to zsh (chsh -s $(which zsh)  )
-+ wezterm (terminal - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust)
-+ nvim (editor)
 + Neovim
 + font-manager-git (yay)
 + Arch Linux Tweak Tool
+
+
+## Nice to have Linux programs
+
++ Chromium (No  longer like Firefox TBH)
++ Discord 
++ Twicth (Watch the best Linux channels and streamers that are live on Twitch!)
++ Steam   
++ Glava (OpenGL audio spectrum visualizer)
++ YouTube Music 
