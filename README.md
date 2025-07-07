@@ -43,3 +43,27 @@
 + Steam   
 + Glava (OpenGL audio spectrum visualizer)
 + YouTube Music 
+
+
+
+# Hyprland
+
+
+## Must have 
+
+>notification daemon 
+Examples: `dunst`, `mako`, `fnott and swaync`.
+
+>Pipewire 
+Install `pipewire` and `wireplumber` (not pipewire-media-session).
+
+>XDG Desktop Portal
+https://wiki.hypr.land/Hypr-Ecosystem/xdg-desktop-portal-hyprland
+`xdg-desktop-portal-hyprland`
+
+>Authentication Agent
+https://wiki.hypr.land/Hypr-Ecosystem/hyprpolkitagent
+`hyprpolkitagent` is a polkit authentication daemon. It is required for GUI applications to be able to request elevated privileges.
+
+>Qt Wayland Support
+Install `qt5-wayland` and `qt6-wayland`.
