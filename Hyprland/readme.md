@@ -33,8 +33,8 @@
 + `dolphin` (File manager)
 + `fish` (shell)
 + `kity` (Terminal
-+ `dunst`
-+ or `ZSH` - change shell to zsh (chsh -s $(which zsh)  )
++  or `ZSH` - change shell to zsh (chsh -s $(which zsh)  )
++  `dunst`
 + `neovim`
 + Arch Linux Tweak Tool
 + `quickshell` (yay quickshell) - See the website https://quickshell.outfoxxed.me/ for more information and installation instructions.
